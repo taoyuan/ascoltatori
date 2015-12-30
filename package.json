@@ -13,8 +13,7 @@
   },
   "pre-commit": [
     "jshint-lib",
-    "jshint-test",
-    "test"
+    "jshint-test"
   ],
   "repository": {
     "type": "git",
@@ -73,6 +72,6 @@
     "mqtt": "^1.6.3",
     "mongodb": "~2.1.2",
     "eventemitter2": "~0.4.14",
-    "qlobber-fsq": "~0.3.1"
+    "qlobber-fsq": "taoyuan/qlobber-fsq"
   }
 }
